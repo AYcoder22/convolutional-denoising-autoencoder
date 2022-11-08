@@ -22,7 +22,7 @@ Write your own steps
 
 ## PROGRAM
 
-'''
+```
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
@@ -111,7 +111,7 @@ for i in range(1, n + 1):
     ax.get_yaxis().set_visible(False)
 plt.show()
 
-'''
+```
 
 ## OUTPUT
 
