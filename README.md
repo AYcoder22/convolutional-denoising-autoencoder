@@ -32,7 +32,7 @@ Include your plot here
 
 ### Original vs Noisy Vs Reconstructed Image
 
-Include a few sample images here.
+![image](https://user-images.githubusercontent.com/69795479/200565389-98470394-66f6-4629-a488-bad386609939.png)
 
 
 
